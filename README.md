@@ -4,7 +4,7 @@
 
 <h2>🌟 About Me</h2>
 <p>
-    I am a <strong>Full-Stack Developer</strong> with 4+ years of experience delivering scalable and impactful web applications. My passion lies in creating seamless user experiences and robust backend solutions. With a strong foundation in <strong>Next.js</strong>, <strong>Nest.js</strong>, <strong>React Native</strong>, and <strong>WordPress</strong>, I specialize in building versatile applications for diverse business needs.
+    I am a <strong>Full-Stack Developer</strong> with 5+ years of experience delivering scalable and impactful web applications. My passion lies in creating seamless user experiences and robust backend solutions. With a strong foundation in <strong>Next.js</strong>, <strong>Nest.js</strong>, <strong>React Native</strong>, and <strong>WordPress</strong>, I specialize in building versatile applications for diverse business needs.
 </p>
 
 <hr>
@@ -26,6 +26,8 @@
 
 <h3>Backend:</h3>
 <p>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+      <img src="https://img.shields.io/badge/-Nest.js-E0234E?logo=nodejs&logoColor=white&style=for-the-badge" alt="Node.js">
     <img src="https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="Nest.js">
     <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
@@ -70,9 +72,9 @@
 
 <h2>💬 Let's Connect!</h2>
 <p>
-    - <a href="https://www.linkedin.com/in/mcdavidsh">LinkedIn</a><br>
+    - <a href="https://www.linkedin.com/in/mcdavidobioha">LinkedIn</a><br>
     - <a href="mailto:mcdavidobioha@gmail.com">Email</a><br>
-    - <a href="https://github.com/mcdavidsh">GitHub</a>
+    - <a href="https://github.com/mcdavidobioha">GitHub</a>
 </p>
 
 <hr>

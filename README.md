@@ -59,6 +59,8 @@
 <h3>Cloud & DevOps:</h3>
 <p>
     <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS">
+    <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Azure">
+    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" alt="Google Cloud">
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
     <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
@@ -85,12 +87,12 @@
 <ul>
     <li>
         <a href="https://expirra.com">Expirra</a> — <em>AI Subscription Intelligence Platform (2026 – Present)</em><br>
-        Next.js · Prisma · PostgreSQL · LLMs via Groq, OpenRouter and NVIDIA<br>
+        Next.js · Prisma · PostgreSQL · Azure · LLMs via Groq, OpenRouter and NVIDIA<br>
         Automatically detects recurring charges from users' inboxes, tracks renewals, splits costs through shared subscription pools, and gives AI-powered savings recommendations. Built end to end as a solo engineer with AI-assisted workflows (Claude Code, Google Antigravity, Gemini).
     </li>
     <li>
         <a href="https://github.com/mcdavidobioha/homely-booking-platform">Homely</a> — <em>Real Estate Platform (Co-Founder)</em><br>
-        Next.js · Tailwind CSS · NestJS<br>
+        Next.js · Tailwind CSS · NestJS · Google Cloud<br>
         Real estate platform handling 5K+ listings, with a multi-step escrow system and vendor search APIs.
     </li>
     <li><a href="https://github.com/mcdavidobioha/keyword-to-pin">Keyword to Pin Pinterest Tool</a>: A tool to aggregate Pinterest keywords for content planning.</li>
